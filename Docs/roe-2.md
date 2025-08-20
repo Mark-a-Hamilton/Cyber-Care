@@ -63,17 +63,16 @@ Select all that apply (tick when agreed):
 
 ## 🔁 Engagement Cycle Notes
 
-### Passive Scan Summary
-- TLS misconfiguration detected  
-- Public breach exposure (email)
+### Scan Findings
+- Refer to Scan results dated [dd/mm/2022]
 
 ### Meeting Outcome
-- Client approved active diagnostics  
-- Remediation deferred to internal team
+- Refer to Minutes dated [dd/mm/2022] 
 
-### Repeat Scan Findings
-- TLS updated to v1.3  
-- No breach exposure detected
+### Scan Summary
+ Refer to Scan Reports
+ - Technical Report dated [dd/mm/2022]
+ - Non-Technical Report dated [dd/mm/2022]
 
 ### Status
 - ✅ Improved posture
@@ -85,8 +84,8 @@ Select all that apply (tick when agreed):
 
 | Date       | Contributor | Cycle Summary                  |  Signature   |  Date Signed |
 |------------|-------------|---------------------------------|--------------|-------------|
-| [20yy-mm-dd] | Mark Hamilton | [Cycle Description] |  ________________________ | 20yy/mm/dd |
-| [20yy-mm-dd] | [Client full-name] | [Cycle Action] |  ________________________ | 20yy/mm/dd |
+| [dd/mm/2022] | Mark Hamilton | [Cycle Description] | <br>________________________________| [dd/mm/2022] |
+| [dd/mm/2022] | [Client full-name] | [Cycle Action] | <br>________________________________| [dd/mm/2022] |
 
 ---
 
