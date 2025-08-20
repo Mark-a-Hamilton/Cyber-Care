@@ -17,7 +17,7 @@ This document records the specific engagement parameters agreed with the client.
 
 Select all that apply (tick when agreed):
 
-- [x] Passive Reconnaissance (pre-meeting)
+- [ ] Passive Reconnaissance (pre-meeting)
 - [ ] Active Diagnostics
 - [ ] Remediation Support
 - [ ] Post-Mitigation Verification
@@ -34,16 +34,16 @@ Select all that apply (tick when agreed):
 ---
 
 ## 🔐 Consent Levels
-- [x] Written Consent Received
-- [x] VC Metadata Logged
+- [ ] Written Consent Received
+- [ ] VC Metadata Logged
 - [ ] Verbal Consent Only (⚠️ Not valid for privileged actions)
 
 ---
 
 ## ⚙️ Privilege Boundaries
 
-- [x] Read-Only Access
-- [x] Diagnostic Scripts Allowed
+- [ ] Read-Only Access
+- [ ] Diagnostic Scripts Allowed
 - [ ] Remediation Scripts Allowed (requires separate approval)
 - [ ] Contributor Access to Internal Systems
 - [ ] Remote Access via VPN
@@ -53,7 +53,7 @@ Select all that apply (tick when agreed):
 
 ## 📦 Data Handling Preferences
 
-- [x] No Export Without Consent
+- [ ] No Export Without Consent
 - [ ] Export Allowed (Format: [CSV])
 - [ ] Anonymized Reporting Only
 - [ ] Client Retains All Logs
@@ -83,10 +83,10 @@ Select all that apply (tick when agreed):
 
 ## 🧾 Version Log
 
-| Date       | Contributor | Cycle Summary                  |
-|------------|-------------|----------------------------------|
-| [20yy-mm-dd] | M. Hamilton | [Cycle Description] |
-| [20yy-mm-dd] | [Client name] | [Cycle Action]   |
+| Date       | Contributor | Cycle Summary                  |  Signature   |  Date Signed |
+|------------|-------------|---------------------------------|--------------|-------------|
+| [20yy-mm-dd] | Mark Hamilton | [Cycle Description] |  ________________________ | 20yy/mm/dd |
+| [20yy-mm-dd] | [Client full-name] | [Cycle Action] |  ________________________ | 20yy/mm/dd |
 
 ---
 
