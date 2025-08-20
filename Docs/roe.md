@@ -1,133 +1,86 @@
 # 🛡️ Cyber Care — Rules of Engagement (RoE)
 
-Welcome to the Cyber Care Rules of Engagement. This document defines how we deliver cybersecurity ethically, transparently, and collaboratively. It protects clients, contributors, and the integrity of the platform.
+This document defines the non-negotiable boundaries, permissions, and responsibilities governing all Cyber Care engagements. It protects clients, contributors, and the platform’s ethical integrity.
 
 ---
 
-## 📌 Purpose
+## 🔒 Core Rules
 
-- Define ethical boundaries and consent protocols
-- Clarify escalation paths and contributor responsibilities
-- Enable traceable, auditable engagement cycles
-- Empower clients to demonstrate reasonable security effort
+### 1. Consent Is Mandatory
+- ❌ No privileged actions (e.g. active scans, remediation, data exports) without documented client consent.
+- ✅ Consent must be explicit, revocable, and logged via VC metadata.
+- ⚠️ Implied or verbal consent is insufficient for privileged operations.
 
----
+### 2. Passive Reconnaissance Is Limited
+- ✅ Allowed only on public-facing assets post-inquiry, pre-engagement.
+- ❌ No authentication, probing, or fingerprinting beyond public visibility.
+- ✅ Results must be shared transparently and framed as preliminary.
 
-## 🧭 Engagement Principles
+### 3. Privilege Elevation Requires Justification
+- ❌ No elevation without written approval and documented rationale.
+- ✅ Scripts must respect user boundaries and include rollback options.
 
-1. **Consent First**  
-   - No privileged or active actions without explicit client consent  
-   - Consent must be documented and revocable at any time
+### 4. AI Involvement Must Be Disclosed
+- ✅ AI-generated summaries, diagnostics, or recommendations must be clearly marked.
+- ❌ No AI-led remediation or decision-making without human oversight.
 
-2. **Empathy Always**  
-   - Use plain English, analogies, and reassurance  
-   - Avoid jargon, fear-based language, or coercive framing
-
-3. **Transparency by Default**  
-   - All actions logged with VC metadata blocks  
-   - AI involvement and automation limits disclosed clearly
-
-4. **Privilege-Aware Execution**  
-   - No elevation without documented justification and client approval  
-   - Scripts must respect user boundaries and traceability
+### 5. Data Handling Is Strictly Controlled
+- ❌ No data export, sharing, or off-platform storage without written consent.
+- ✅ All exports must be logged and versioned.
 
 ---
 
-## 🚦 Engagement Flow
+## 🚫 Prohibited Actions
 
-```mermaid
-graph TD
-A[Client Inquiry] --> B[Passive Recon on Public Assets]
-B --> C[Initial Meeting]
-C --> D[RoE Agreement]
-D --> E[Active Scan + Findings]
-E --> F[Client Mitigation]
-F --> G[Repeat Scan]
-G --> H[Progress Report]
-H --> I{Further Issues?}
-I -->|Yes| E
-I -->|No| J[Close Engagement]
-```
+| Action                             | Status     | Notes |
+|------------------------------------|------------|-------|
+| Active scans without consent       | ❌ Forbidden | Even if client is aware verbally |
+| Remediation without approval       | ❌ Forbidden | Must be logged with VC block |
+| Privilege escalation without RoE   | ❌ Forbidden | Requires documented justification |
+| AI-led decisions without review    | ❌ Forbidden | Human oversight required |
+| Data export without consent        | ❌ Forbidden | Must be written and timestamped |
+| Fear-based or coercive language    | ❌ Forbidden | Empathy and clarity required |
 
 ---
 
-## 🧪 Passive Reconnaissance (Pre-RoE)
+## ✅ Permitted Actions (With Conditions)
 
-Cyber Care may perform **non-invasive scans** on public-facing assets after a client inquiry but before the initial meeting. This helps tailor the conversation and demonstrate value.
-
-**Examples:**
-- DNS enumeration  
-- SSL/TLS configuration checks  
-- Public breach exposure  
-- Open port visibility
-
-**Safeguards:**
-- No authentication or intrusive probing  
-- Results shared transparently  
-- Framed as a conversation starter, not a commitment
+| Action                             | Status     | Conditions |
+|------------------------------------|------------|------------|
+| Passive diagnostics                | ✅ Allowed  | Public assets only |
+| Repeat scans post-mitigation       | ✅ Allowed  | Must be logged and versioned |
+| AI-assisted summaries              | ✅ Allowed  | Must be disclosed |
+| Contributor suggestions            | ✅ Allowed  | Must follow ethical framing |
+| Client-led remediation             | ✅ Encouraged | Supported with guidance |
 
 ---
 
-## 🔐 Consent Boundaries
+## 🧭 Contributor Responsibilities
 
-| Action Type            | Requires Consent | Notes |
-|------------------------|------------------|-------|
-| Passive diagnostics    | ❌ No (if public) | Used to guide initial meeting |
-| Active scans           | ✅ Yes            | Scope must be understood |
-| Remediation scripts    | ✅ Yes            | Approval logged with VC block |
-| Data export/sharing    | ✅ Yes            | Requires written consent |
-| AI-assisted summaries  | ⚠️ Optional       | Disclose AI involvement clearly |
+- Log all actions using VC metadata blocks.
+- Pause immediately if ethical ambiguity arises.
+- Escalate unclear consent, suspicious activity, or client distress.
+- Maintain plain-English documentation for all client-facing outputs.
+- Uphold the principle of “reasonable effort” in every engagement.
 
 ---
 
-## 🚨 Escalation Protocols
+## 🔁 Engagement Lifecycle (Reference Only)
 
-If a contributor encounters:
-- Suspicious activity  
-- Client distress or confusion  
-- Ethical ambiguity or unclear consent  
+This RoE governs all phases of engagement, including:
+- Pre-engagement passive recon
+- Consent acquisition and scope definition
+- Active diagnostics and remediation
+- Post-mitigation verification
+- Final reporting and closure
 
-They must:
-1. Pause all actions  
-2. Log the event with VC metadata  
-3. Notify the escalation lead  
-4. Await guidance before proceeding
+Each phase must comply with the rules above. Deviations require stewardship review and documented justification.
 
 ---
 
-## 🔁 Post-Mitigation Verification Loop
+## 🧾 Amendments & Stewardship
 
-After remediation, Cyber Care supports a **repeat scan** to:
-- Confirm mitigation success  
-- Validate client or contributor actions  
-- Provide updated findings  
-- Determine if further cycles are needed
-
-**Ethical framing:**
-- Non-punitive and collaborative  
-- Encourages client self-mitigation  
-- All repeat scans logged and versioned
-
----
-
-## ✅ Demonstrating Reasonable Effort
-
-Cyber Care helps clients show they’ve taken **reasonable steps** to secure their systems—critical for:
-- Legal defensibility  
-- Insurance compliance  
-- Stakeholder trust
-
-**Progress is tracked via:**
-- VC metadata blocks  
-- Mitigation logs  
-- Repeat scan comparisons  
-- Timestamped reports
-
----
-
-## 🧾 Version Control & Amendments
-
-This document is version-controlled. Contributors may suggest edits via pull requests. All changes must:
-- Preserve ethical clarity  
-- Maintain traceability  
-- Be reviewed by the Cyber Care stewardship team.
+This RoE is version-controlled. Proposed changes must:
+- Preserve ethical clarity
+- Enhance contributor empowerment
+- Be reviewed and approved by the Cyber Care stewardship team.
