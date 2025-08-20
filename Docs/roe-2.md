@@ -15,13 +15,21 @@ This document records the specific engagement parameters agreed with the client.
 
 ## 🔍 Engagement Scope
 
-Select all that apply:
+Select all that apply (tick when agreed):
 
 - [x] Passive Reconnaissance (pre-meeting)
-- [x] Active Diagnostics
+- [ ] Active Diagnostics
 - [ ] Remediation Support
-- [x] Post-Mitigation Verification
-- [x] AI-Assisted Summaries
+- [ ] Post-Mitigation Verification
+- [ ] AI-Assisted Summaries
+- [ ] Home Network Scan
+- [ ] Internal Infrastructure Scan
+- [ ] Cloud Configuration Review
+- [ ] Social Engineering Simulation
+- [ ] Contributor-Led Mitigation
+- [ ] Client-Led Mitigation (with guidance)
+- [ ] Repeat Scan (post-mitigation)
+- [ ] Final Audit Summary
 
 ---
 
@@ -37,6 +45,9 @@ Select all that apply:
 - [x] Read-Only Access
 - [x] Diagnostic Scripts Allowed
 - [ ] Remediation Scripts Allowed (requires separate approval)
+- [ ] Contributor Access to Internal Systems
+- [ ] Remote Access via VPN
+- [ ] Onsite Access (physical presence)
 
 ---
 
@@ -45,21 +56,23 @@ Select all that apply:
 - [x] No Export Without Consent
 - [ ] Export Allowed (Format: [CSV])
 - [ ] Anonymized Reporting Only
+- [ ] Client Retains All Logs
+- [ ] Cyber Care Retains Logs for Audit Trail
 
 ---
 
 ## 🔁 Engagement Cycle Notes
 
 ### Passive Scan Summary
-- TLS misconfiguration detected
+- TLS misconfiguration detected  
 - Public breach exposure (email)
 
 ### Meeting Outcome
-- Client approved active diagnostics
+- Client approved active diagnostics  
 - Remediation deferred to internal team
 
 ### Repeat Scan Findings
-- TLS updated to v1.3
+- TLS updated to v1.3  
 - No breach exposure detected
 
 ### Status
