@@ -83,10 +83,10 @@ Select all that apply (tick when agreed):
 
 ## 🧾 Version Log
 
-| Date       | Contributor | Change Summary                  |
+| Date       | Contributor | Cycle Summary                  |
 |------------|-------------|----------------------------------|
-| 2025-08-20 | M. Hamilton | Initial engagement record created |
-| 2025-08-22 | J. Doe      | Consent updated, scope expanded   |
+| [20yy-mm-dd] | M. Hamilton | [Cycle Description] |
+| [20yy-mm-dd] | [Client name] | [Cycle Action]   |
 
 ---
 
