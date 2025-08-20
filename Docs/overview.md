@@ -22,7 +22,7 @@ We believe cybersecurity is not just a technical service—it’s a civic respon
 Cyber Care supports two primary flows:
 
 ### For Clients
-- Review the [RoE.md](../RoE.md) to understand scope, consent, and privilege boundaries.
+- Review the [RoE.md](./RoE.md) to understand scope, consent, and privilege boundaries.
 - Approve modules via versioned consent logs.
 - Monitor remediation status through live VC logs.
 - Submit feedback or scope revisions via the onboarding interface.
