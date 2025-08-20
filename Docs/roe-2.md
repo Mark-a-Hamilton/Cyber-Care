@@ -57,7 +57,7 @@ Select all that apply (tick when agreed):
 - [ ] Export Allowed (Format: [CSV])
 - [ ] Anonymized Reporting Only
 - [ ] Client Retains All Logs
-- [ ] Cyber Care Retains Logs for Audit Trail
+- [ ] Cyber Care Retains Logs for Audit Trail until Final Audit Summary
 
 ---
 
