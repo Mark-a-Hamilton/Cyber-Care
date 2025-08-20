@@ -22,7 +22,7 @@ We believe cybersecurity is not just a technical service—it’s a civic respon
 Cyber Care supports two primary flows:
 
 ### For Clients
-- Review the [RoE.md](./RoE.md) to understand scope, consent, and privilege boundaries.
+- Review the [RoE.md](./roe.md) to understand scope, consent, and privilege boundaries.
 - Approve modules via versioned consent logs.
 - Monitor remediation status through live VC logs.
 - Submit feedback or scope revisions via the onboarding interface.
@@ -52,8 +52,8 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 
 - [README.md](../README.md) – Project overview and setup instructions
 - [Mission.md](./Mission.md) – Ethical stance and civic framing
-- [RoE.md](./RoE.md) – Rules of Engagement and privilege boundaries
-- [Workflow.md](./Workflow.md) – Execution logic and rollback protocols
+- [RoE.md](./roe.md) – Rules of Engagement and privilege boundaries
+- [Workflow.md](./workflow.md) – Execution logic and rollback protocols
 - [Onboarding.md](./Onboarding.md) – Audience segmentation and empathy profiles
 - [VC-Log.md](../VC-Log.md) – Logging standards and metadata blocks
 
