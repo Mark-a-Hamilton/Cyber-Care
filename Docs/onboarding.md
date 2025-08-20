@@ -41,8 +41,8 @@ We recognize that trust is built through understanding. Cyber Care uses empathy 
 ### 🧑‍💻 Contributors
 
 1. **Setup Guide** – Clone repo, review README.md, and install dependencies.
-2. **Workflow.md** – Learn modular execution, logging, and rollback protocols.
-3. **RoE.md** – Internalize ethical boundaries and escalation logic.
+2. **[Workflow](./workflow.md)** – Learn modular execution, logging, and rollback protocols.
+3. **[RoE](./roe.md)** – Internalize ethical boundaries and escalation logic.
 4. **VC Logging** – Follow metadata standards for traceability.
 5. **Contributor Empowerment** – Suggest improvements, flag concerns, and co-author modules.
 
