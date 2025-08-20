@@ -1,4 +1,4 @@
-# Cyber Care — Rules of Engagement Supplement (Engagement Agreement)
+# Cyber Care — Engagement Cycle Agreement
 
 This document records the specific engagement parameters agreed with the client. It complements the core RoE and is versioned per engagement cycle.
 
