@@ -48,7 +48,7 @@ Cyber Care includes templates for:
 
 - VC logs
 - Metadata blocks
-- Contributor [onboarding](./onboarding.md) & [Workflow](`./workflow.md`)
+- Contributor [onboarding](./onboarding.md) & [Workflow](./workflow.md)
 
 These are designed to support audit-grade traceability and ethical stewardship.
 
