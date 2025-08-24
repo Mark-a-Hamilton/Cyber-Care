@@ -60,7 +60,7 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 
 ---
 
-📚 Applying Cyber Care Beyond Cybersecurity  
+## 📚 Applying Cyber Care Beyond Cybersecurity  
 While this repo demonstrates Cyber Care in a cybersecurity context, the model is domain-agnostic. Contributors are encouraged to adapt the framework to other systems—legal, civic, educational—using the cybersecurity example as a learning scaffold.
 
 Cyber Care is a living framework. Every module, document, and decision tree is designed to evolve—with clarity, traceability, and contributor care at its core.
