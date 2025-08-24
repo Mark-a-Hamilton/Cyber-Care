@@ -134,4 +134,5 @@ This document is version-controlled. Contributors may suggest edits via pull req
 - Preserve ethical clarity  
 - Maintain traceability  
 - Be reviewed by the Cyber Care stewardship team.
+- Example [Version Control](./vc-log.md) document used for this project
 
