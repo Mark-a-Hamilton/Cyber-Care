@@ -48,6 +48,11 @@ We recognize that trust is built through understanding. Cyber Care uses empathy 
 
 ---
 
+### Reference links
+1) Circular reference to [README](../README.md) document. 
+
+---
+
 ## 🧩 Modular Ethos
 
 Every document, script, and decision tree in Cyber Care is designed to be:
