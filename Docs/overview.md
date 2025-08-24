@@ -51,7 +51,7 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 ## 🔗 Contributor Links
 
 - [README.md](../README.md) – Project overview and setup instructions
-- [Mission.md](./Mission.md) – Ethical stance and civic framing
+- [overview](./overview.md) – Ethical stance and civic framing
 - [RoE.md](./roe.md) – Rules of Engagement and privilege boundaries
 - [Workflow.md](./workflow.md) – Execution logic and rollback protocols
 - [Onboarding.md](./Onboarding.md) – Audience segmentation and empathy profiles
