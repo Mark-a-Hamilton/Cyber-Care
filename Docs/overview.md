@@ -2,6 +2,8 @@
 
 Cyber Care is a client-facing wrapper for Recon-Suite, designed to deliver cybersecurity services that are ethical, transparent, and accessible to non-technical audiences. It reframes technical operations into trustable workflows, empowering both clients and contributors through clarity, modularity, and audit-grade traceability.
 
+The links in this documents demonstrate how Cyber Care principles apply in a cybersecurity context. These links are relevant to the CyberSecurity application. However the model is designed to be domain-agnostic and adaptable to any system requiring ethical, transparent, and modular design.
+
 ---
 
 ## 🎯 Mission & Ethical Framing
@@ -51,11 +53,10 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 ## 🔗 Contributor Links
 
 - **[README](../README.md)** – Project overview and setup instructions
-- 🔗 Contributor Links - The following links demonstrate how Cyber Care principles apply in a cybersecurity context. These are examples only—the model is designed to be domain-agnostic and adaptable to any system requiring ethical, transparent, and modular design.
-  - **Ethics** - see [Rules of Engagement](./roe.md) and [privilege boundaries](./roe-2.md)
-  - **[Workflow](./workflow.md)** - to demonstarte Execution logic and rollback protocols
-  - **[Onboarding](./onboarding.md)** – Audience segmentation and empathy profiles
-  - **Version Control** – Logging standards and metadata blocks
+- **Ethics** - see [Rules of Engagement](./roe.md) and [privilege boundaries](./roe-2.md)
+- **[Workflow](./workflow.md)** - to demonstarte Execution logic and rollback protocols
+- **[Onboarding](./onboarding.md)** – Audience segmentation and empathy profiles
+- **Version Control** – Logging standards and metadata blocks
 
 ---
 
