@@ -1,4 +1,4 @@
-# 🌐 Cyber Care Model
+view# 🌐 Cyber Care Model
 
 The **Cyber Care Model** is a living, evolving framework for designing systems that are ethical, transparent, and effective. Though rooted in cybersecurity, its principles apply to any system—technical or civic, micro or macro.
 
@@ -99,7 +99,7 @@ Each application should reflect the acronym and properties above, ensuring ethic
 This model is open for ethical use, adaptation, and contribution. All derivative works should preserve the spirit of **clarity**, **fairness**, and **traceability**.
 
 For questions, contributions, or onboarding support, refer to:
-- `Mission.md` – Vision and ethical foundations
+- `[Overview](Docs/overview.md)` – Vision and ethical foundations
 - `RoE.md` – Rules of Engagement
 - `Workflow.md` – Contributor processes
 - `VC-Log.md` – Audit-grade version control
