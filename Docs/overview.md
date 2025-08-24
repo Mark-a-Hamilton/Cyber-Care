@@ -51,8 +51,7 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 ## 🔗 Contributor Links
 
 - [README.md](../README.md) – Project overview and setup instructions
-- [overview](./overview.md) – Ethical stance and civic framing
-- [RoE.md](./roe.md) – Rules of Engagement and privilege boundaries
+- Ethics - I.E. in Cyber Security model see [Rules of Engagement](./roe.md) and [privilege boundaries](./roe.md)
 - [Workflow.md](./workflow.md) – Execution logic and rollback protocols
 - [Onboarding.md](./Onboarding.md) – Audience segmentation and empathy profiles
 - [VC-Log.md](../VC-Log.md) – Logging standards and metadata blocks
