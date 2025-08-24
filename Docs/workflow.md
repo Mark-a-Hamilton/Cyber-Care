@@ -2,6 +2,9 @@
 
 Welcome to the Cyber Care Rules of Engagement. This document defines how we deliver cybersecurity ethically, transparently, and collaboratively. It protects clients, contributors, and the integrity of the platform.
 
+🔄 Circular Navigation  
+Cyber Care documentation is designed with circular references to ensure contributors can enter from any file and still reach the full model context. This supports ethical onboarding, traceability, and modular clarity.
+
 ---
 
 ## 📌 Purpose
