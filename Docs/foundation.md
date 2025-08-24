@@ -3,7 +3,7 @@
 ## Purpose
 **Audience:** Anyone, the document is wrote in plain English and should be undersatandable by anyone.  Having said that the more experienced in IT technologies you have then the less research will be required.
 
-**Reason:** The reason behind this Document is to explain where the Cyber-care Model came from as understanding the foundation of the Model will clearly assist in understanding the Model in its own right.  Not forgetting that I started as a Software Engineer and the Model evolved over time as Best Practices, Ethical integrity and technology evolved.
+**Reason:** The reason behind this Document is to explain where the [Cyber-care Model](../README.md) came from as understanding the foundation of the Model will clearly assist in understanding the Model in its own right.  Not forgetting that I started as a Software Engineer and the Model evolved over time as Best Practices, Ethical integrity and technology evolved.
 
 **Elements:** - These are Basic Overview's but may need researching if unfamiliar with a topic
 - Understanding Object-Oriented Programming Principles (OOPP's)
