@@ -89,6 +89,7 @@ Cyber Care is designed to be applied across:
 - Civic infrastructure
 - Defence models
 - Contributor onboarding processes
+- And potentially other yet unexplored models
 
 Each application should reflect the acronym and properties above, ensuring ethical, transparent, and effective delivery.
 
@@ -100,6 +101,5 @@ This model is open for ethical use, adaptation, and contribution. All derivative
 
 For questions, contributions, or onboarding support, refer to:
 - [Overview](Docs/overview.md) – Vision and ethical foundations
-- `RoE.md` – Rules of Engagement
-- `Workflow.md` – Contributor processes
-- `VC-Log.md` – Audit-grade version control
+- This is essentially the Raw Model which is adaptable depending on the scenario
+- The Model is essentially an evolution of OOPP's, SDLC, real life development experience & customer inter-action
