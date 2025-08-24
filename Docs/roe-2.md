@@ -90,7 +90,6 @@ Select all that apply (tick when agreed):
 ---
 
 ## 🔗 References
-
-- [RoE.md — Core Rules](./RoE.md)
-- [Workflow.md — Execution Logic](./Workflow.md)
-- [ProgressReport.md — Scan Comparison](./ProgressReport.md)
+- Return to [README](../README.md) document
+- [Rules of Engagement](./roe.md) — Core Rules.
+- [Workflow](./workflow.md) — Execution Logic.
