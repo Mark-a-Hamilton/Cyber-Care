@@ -2,7 +2,7 @@
 
 Cyber Care is a client-facing wrapper for Recon-Suite, designed to deliver cybersecurity services that are ethical, transparent, and accessible to non-technical audiences. It reframes technical operations into trustable workflows, empowering both clients and contributors through clarity, modularity, and audit-grade traceability.
 
-The links in this documents demonstrate how Cyber Care principles apply in a cybersecurity context. These links are relevant to the CyberSecurity application. However the model is designed to be domain-agnostic and adaptable to any system requiring ethical, transparent, and modular design.
+The links in this document demonstrate how Cyber Care principles apply in a cybersecurity context. These links are relevant to the CyberSecurity application. However the model is designed to be domain-agnostic and adaptable to any system requiring ethical, transparent, and modular design.
 
 ---
 
