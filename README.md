@@ -1,4 +1,4 @@
-view# 🌐 Cyber Care Model
+# 🌐 Cyber Care Model
 
 The **Cyber Care Model** is a living, evolving framework for designing systems that are ethical, transparent, and effective. Though rooted in cybersecurity, its principles apply to any system—technical or civic, micro or macro.
 
