@@ -35,8 +35,8 @@ No privileged modules or external dependencies are required.
 
 Before exploring the documentation or adapting the model, please read:
 
-- `Mission.md` — the purpose and philosophy of Cyber Care.
-- `RoE.md` — Rules of Engagement for ethical usage and contributor conduct.
+- [Overview](./overview.md) — the purpose and philosophy of Cyber Care.
+- [Rules of Engagement](./roe.md) — Rules of Engagement for ethical usage and contributor conduct.
 
 Cyber Care is designed to empower contributors while respecting client boundaries and operational hygiene.
 
@@ -46,9 +46,9 @@ Cyber Care is designed to empower contributors while respecting client boundarie
 
 Cyber Care includes templates for:
 
-- VC logs (`vc-log.md`)
+- VC logs
 - Metadata blocks
-- Contributor onboarding (`workflow.md`)
+- Contributor [onboarding](./onboarding.md) & [Workflow](`./workflow.md`)
 
 These are designed to support audit-grade traceability and ethical stewardship.
 
@@ -78,11 +78,10 @@ Cyber Care is the cockpit, not the engine room.
 ## ✅ Next Steps
 
 Once cloned, explore:
-
-- `README.md` for model overview
-- `overview.md` for usage summary
-- `workflow.md` to understand contributor pathways
-- `UseCases.md` (optional) to see how the model can be adapted to other domains
+- [README](../README.md) for model overview
+- [Overview](./overview.md) for usage summary
+- [Workflow](./workflow.md) to understand contributor pathways
+- [USE CASES](./usecases.md) (optional) to see how the model can be adapted to other domains
 
 ---
 
