@@ -102,4 +102,5 @@ This model is open for ethical use, adaptation, and contribution. All derivative
 For questions, contributions, or onboarding support, refer to:
 - [Overview](Docs/overview.md) – Vision and ethical foundations
 - This is essentially the Raw Model which is adaptable depending on the scenario
-- The Model is essentially an evolution of OOPP's, SDLC, real life development experience & customer inter-action
+- The foundation fo CYBER CARE is an evolution of OOPP's, SDLC, real life development experience & customer inter-action.
+- By exploring the foundation will provide a deeper understanding
