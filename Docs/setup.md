@@ -81,7 +81,7 @@ Once cloned, explore:
 - [README](../README.md) for model overview
 - [Overview](./overview.md) for usage summary
 - [Workflow](./workflow.md) to understand contributor pathways
-- [USE CASES](./usecases.md) (optional) to see how the model can be adapted to other domains
+- [USE CASES](./usecases.md) (to do) to see how the model can be adapted to other domains
 
 ---
 
