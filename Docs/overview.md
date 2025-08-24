@@ -31,8 +31,8 @@ Cyber Care supports two primary flows:
 
 ### For Contributors
 - Clone the repo and follow [Setup.md](./setup.md).
-- Use [Workflow.md](./workflow.md) to execute modules with rollback and logging.
-- Follow [RoE.md](./roe.md) to respect ethical boundaries and escalation logic.
+- Use the [Workflow](./workflow.md) to execute modules with rollback and logging.
+- Follow the [Rules of Engagement](./roe.md) to respect ethical boundaries and escalation logic.
 - Log actions using standardized VC metadata blocks.
 - Suggest improvements via Issues or Pull Requests.
 
