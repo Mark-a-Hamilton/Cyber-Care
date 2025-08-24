@@ -24,7 +24,7 @@ We believe cybersecurity is not just a technical service—it’s a civic respon
 Cyber Care supports two primary flows:
 
 ### For Clients
-- Review the [RoE.md](./roe.md) to understand scope, consent, and privilege boundaries.
+- Review the [RoE.md](./roe-2.md) to understand scope, consent, and privilege boundaries.
 - Approve modules via versioned consent logs.
 - Monitor remediation status through live VC logs.
 - Submit feedback or scope revisions via the onboarding interface.
@@ -59,5 +59,8 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 - **Version Control** – Logging standards and metadata blocks
 
 ---
+
+📚 Applying Cyber Care Beyond Cybersecurity  
+While this repo demonstrates Cyber Care in a cybersecurity context, the model is domain-agnostic. Contributors are encouraged to adapt the framework to other systems—legal, civic, educational—using the cybersecurity example as a learning scaffold.
 
 Cyber Care is a living framework. Every module, document, and decision tree is designed to evolve—with clarity, traceability, and contributor care at its core.
