@@ -110,4 +110,7 @@ This foundation document reveals how CYBERCARE is not just a technical framework
 
 > 🔍 _Note: If you're unfamiliar with technical concepts like OOPPS or SDLC, you may wish to explore these topics further. This document is written in plain English, but deeper understanding will come with context._
 
+![Transformation from SDLC to Cyber Care](Docs/assets/sdlc2cybercare.png)
+
+
 ---
