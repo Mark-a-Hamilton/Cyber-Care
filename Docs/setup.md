@@ -1,4 +1,4 @@
-# 🛠️ Setup.md — Getting Started with Cyber Care
+# 🛠️ Getting Started with Cyber Care
 
 Welcome to Cyber Care — a modular, ethical framework for delivering cybersecurity in a way that's transparent, auditable, and accessible to non-technical audiences.
 
