@@ -8,7 +8,7 @@ Cyber Care is built on modular, auditable principles—many of which were first 
 > ⚠️ **Note:** The linked Recon-Suite repository is public and outlines the conceptual framework only. Detailed implementation, including privileged diagnostics and contributor tooling, resides in a private repository for security and stewardship reasons.
 
 ### 🧪 Example Modules (Public Recon-Suite)
-- [Recon-Suite README](https://github.com/Mark-a-Hamilton/Recon-Suite/README.md): Check me!! 
+- [Recon-Suite README](https://github.com/Mark-a-Hamilton/Recon-Suite/blob/main/README.md): Check me!! 
 - [`recon-home`](https://github.com/Mark-a-Hamilton/Recon-Suite/blob/main/recon-home/README.md): Local system health checks (disk clean, defrag, uptime logging)
 - [`vc-log`](https://github.com/Mark-a-Hamilton/Recon-Suite/blob/main/vc-log/README.md): Version control logging with contributor-friendly metadata blocks
 - [`diagnostics`](https://github.com/Mark-a-Hamilton/Recon-Suite/blob/main/diagnostics/README.md): Privilege-aware diagnostics for cross-platform troubleshooting
