@@ -51,7 +51,7 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 ## 🔗 Contributor Links
 
 - **[README](../README.md)** – Project overview and setup instructions
-- The following are examplese all in the context of Cyber Security but can be applied in other Conexts as required.
+- 🔗 Contributor Links - The following links demonstrate how Cyber Care principles apply in a cybersecurity context. These are examples only—the model is designed to be domain-agnostic and adaptable to any system requiring ethical, transparent, and modular design.
   - **Ethics** - see [Rules of Engagement](./roe.md) and [privilege boundaries](./roe-2.md)
   - **[Workflow](./workflow.md)** - to demonstarte Execution logic and rollback protocols
   - **[Onboarding](./onboarding.md)** – Audience segmentation and empathy profiles
