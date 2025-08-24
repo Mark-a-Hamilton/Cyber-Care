@@ -5,6 +5,9 @@ This document defines the non-negotiable boundaries, permissions, and responsibi
 ---
 
 ## 🔒 Core Rules
+Associated links
+-  Return to the [readme](../README.md) document.
+-  Progress to the [Rules of Engagement](./roe-2.md) template.
 
 ### 1. Consent Is Mandatory
 - ❌ No privileged actions (e.g. active scans, remediation, data exports) without documented client consent.
