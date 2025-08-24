@@ -66,12 +66,6 @@ Confirmed that `README.md` links to `foundation.md`, `RoE.md`, and `Workflow.md`
 
 ---
 
-*******************
-
-Here’s a new entry for `vc-log.md` that captures your update to `usecases.md` with timestamp, rationale, and impact:
-
----
-
 🗓️ **2025-08-24**  
 
 ✅ **Summary of Changes**  
