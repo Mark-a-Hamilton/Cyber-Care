@@ -99,7 +99,7 @@ Each application should reflect the acronym and properties above, ensuring ethic
 This model is open for ethical use, adaptation, and contribution. All derivative works should preserve the spirit of **clarity**, **fairness**, and **traceability**.
 
 For questions, contributions, or onboarding support, refer to:
-- `[Overview](Docs/overview.md)` – Vision and ethical foundations
+- [Overview](Docs/overview.md) – Vision and ethical foundations
 - `RoE.md` – Rules of Engagement
 - `Workflow.md` – Contributor processes
 - `VC-Log.md` – Audit-grade version control
