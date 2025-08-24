@@ -50,12 +50,12 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 
 ## 🔗 Contributor Links
 
-- [README](../README.md) – Project overview and setup instructions
+- **[README](../README.md)** – Project overview and setup instructions
 - The following are examplese all in the context of Cyber Security but can be applied in other Conexts as required.
-- Ethics - see [Rules of Engagement](./roe.md) and [privilege boundaries](./roe-2.md)
-- [Workflow](./workflow.md) - to demonstarte Execution logic and rollback protocols
-- [Onboarding.md](./onboarding.md) – Audience segmentation and empathy profiles
-- [VC-Log.md](../VC-Log.md) – Logging standards and metadata blocks
+  - **Ethics** - see [Rules of Engagement](./roe.md) and [privilege boundaries](./roe-2.md)
+  - **[Workflow](./workflow.md)** - to demonstarte Execution logic and rollback protocols
+  - **[Onboarding](./onboarding.md)** – Audience segmentation and empathy profiles
+  - **Version Control** – Logging standards and metadata blocks
 
 ---
 
