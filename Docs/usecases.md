@@ -1,6 +1,6 @@
 # Use Cases
 
-## 🔗 Exploring Cyber Care Through Recon-Suite
+## 🔗 [Exploring Cyber Care Through Recon-Suite](https://github.com/Mark-a-Hamilton/Recon-Suite/blob/main/README.md)
 
 Cyber Care is built on modular, auditable principles—many of which were first prototyped in Recon-Suite. This document invites you to explore the **public Recon-Suite repository**, which outlines the conceptual backbone of Cyber Care.
 
@@ -8,7 +8,7 @@ Cyber Care is built on modular, auditable principles—many of which were first 
 
 ### 🧭 Explore Freely
 
-Rather than prescribing specific modules, we encourage you to navigate the public repo **[public repository](https://github.com/Mark-a-Hamilton/Recon-Suite/blob/main/README.md)** with curiosity. Each tool reflects Cyber Care’s core values:
+Rather than prescribing specific modules, we encourage you to navigate the public repository with curiosity. Each tool reflects Cyber Care’s core values:
 
 - **Transparency** – Every action is traceable and explainable  
 - **Empowerment** – Contributors can understand and extend tools without gatekeeping  
