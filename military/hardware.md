@@ -122,3 +122,12 @@ This hybrid vehicle becomes a **multi-domain node** the surveillance mesh is cap
 - Diving to inspect subsea infrastructure
 - Triaging threats across both domains
 - Operating ethically, transparently, and autonomously
+
+  ---
+
+##  🔗 Cross-References
+
+- [**Introduction**](./introduction.md) Circular reference back to the introduction
+- [**Natural Progression**](./hardware.md) Now we have the abstract template we can specify the required tools.
+
+
