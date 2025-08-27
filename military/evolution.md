@@ -94,4 +94,4 @@ Defence alone isn’t enough. If your only weapon is defence, adversaries may te
 - [**Proof of Concept**](./concept.md) — Strategic purpose and ethical framing  
 - [**Military Hardware**](./hardware.md) — Equipment recommendations based on the model  
 - [**Blending**](./blending.md) — Integration of concept and hardware  
-- [**Extensions**](./extensions.md) — Scaling the model to full military capability  
+- [**Extending Capability**](./extend.md) — Scaling the model to full military capability  
