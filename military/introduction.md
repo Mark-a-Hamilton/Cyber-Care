@@ -65,8 +65,8 @@ This mindset transforms defence from a privilege of the powerful into a civic re
 ---
 
 ## 🔗 Cross-References
+
 ### the references below should be clarified 
-- [Proof of Concept](./concept.md) — Strategic purpose and ethical framing  
-- [RoE.md](../RoE.md) — Rules of Engagement for modular deterrence  
-- [Model-Evolution.md](../Model-Evolution.md) — Conceptual roots and transformation of Cyber Care  
+
+- [**Model Evolution**](./evolution.md) — Describes the flow and definition   
 
