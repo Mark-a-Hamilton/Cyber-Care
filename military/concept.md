@@ -76,3 +76,9 @@ This household analogy demonstrates how Cyber Care can scale:
 - From **personal ethics** to **national policy frameworks**
 
 By substituting homeowner resources with government capabilities, the same zonal logic applies to national defence. The next phase will explore this transition—with expert input from Copilot.
+
+---
+
+## new section references
+
+- [Introduction](./introduction.md)Circular reference back to the introduction
