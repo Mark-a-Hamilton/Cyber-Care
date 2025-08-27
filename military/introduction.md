@@ -66,6 +66,7 @@ This mindset transforms defence from a privilege of the powerful into a civic re
 
 ## 🔗 Cross-References
 
-### the references below should be clarified
+### CHECK
+
 - [**Model Evolution**](./evolution.md) — Describes the application and acts as a circular reference to the appropriate documents
 - [**CyberCare**](../Docs/usecases.md) - Returns to the Cybercare Use cases Document.
