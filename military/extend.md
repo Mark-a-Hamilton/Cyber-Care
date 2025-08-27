@@ -4,8 +4,5 @@
 
 ##  🔗 Cross-References
 
-### CHECK
-
 - [**Introduction**](./introduction.md) Circular reference back to the introduction
-- [**Modular Evolution**](./evolution.md) A brief explaination of each page and a circular reference.
-
+- [**Model Evolution**](./evolution.md) This is an explaination of how each document was composed, and it acts as a Circular reference.
