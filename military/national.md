@@ -73,5 +73,7 @@ This national model retains the Cyber Care ethos:
 
 ## 🔗 Cross-References
 
+### CHECK
+
 - [**Introduction**](./introduction.md) — Circular reference to the root document  
 - [**Proof of Concept**](./concept.md) — Correct - Strategic purpose and ethical framing  
