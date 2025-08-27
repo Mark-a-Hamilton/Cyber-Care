@@ -79,7 +79,8 @@ Defence alone isn’t enough. If your only weapon is defence, adversaries may te
 
 1. **Offensive Role**  
    Passive reconnaissance systems could monitor foreign ICBM silos. If a launch is detected before inertia builds, a justified strike could neutralize the threat.  
-   > _“The best form of defence is attack”_ becomes:  
+   > _“The best form of defence is attack”_
+   becomes:  
    > _“The best form of defence is **justified** attack.”_
 
 2. **Scalable Alliances**  
