@@ -70,3 +70,8 @@ This national model retains the Cyber Care ethos:
 - **Resilience**: The system adapts to threats without compromising values
 
 ---
+
+## 🔗 Cross-References
+
+- [**Introduction**](./introduction.md) — Circular reference to the root document  
+- [**Proof of Concept**](./concept.md) — Correct - Strategic purpose and ethical framing  
