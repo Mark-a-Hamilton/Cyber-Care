@@ -17,3 +17,30 @@ Rather than prescribing specific modules, we encourage you to navigate the publi
 Start anywhere. Follow your instincts. The repo is designed to reward exploration.
 
 ---
+
+Here’s a new use case entry for `usecases.md` that aligns with CyberCare’s modular tone and civic transparency, while guiding contributors toward the military module:
+
+---
+
+### 🛡️ Strategic Defense Use Case: Navigating the Military Module
+
+CyberCare’s military module demonstrates how modular, ethical tooling can be applied to national defense. Built on the same principles as Recon-Suite—transparency, traceability, and contributor empowerment—it offers a framework for detecting and responding to threats without initiating conflict.
+
+This use case explores how CyberCare:
+
+- Uses aerial and subsurface drone nets to detect hostile acts before they escalate  
+- Applies martial arts philosophy (Aikido) to strategic deterrence—turning adversary momentum into liability  
+- Maintains democratic integrity by ensuring all responses are proportional and ethically justified  
+- Reinforces civic trust by making defense logic auditable and teachable  
+
+🧭 **To explore this module**, start with [`military/introduction.md`](https://github.com/Mark-a-Hamilton/Cyber-Care/blob/main/Docs/usecases.md), which outlines the strategic framing, ethical boundaries, and operational scaffolding. From there, contributors can navigate to:
+
+- `military/evolution.md` — for historical context and philosophical rationale  
+- `military/hardware.md` — for modular assets and deployment logic  
+- `military/traffic-light.md` — for situational scale and response classification  
+
+This use case is ideal for contributors interested in strategic deterrence, ethical defense tooling, and civic demonstration through modular design.
+
+---
+
+Let me know if you'd like this staged for commit or cross-linked from `concept.md` as well. We could also scaffold a `military-usecase.md` for deeper contributor orientation.
