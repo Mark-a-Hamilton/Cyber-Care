@@ -18,10 +18,6 @@ Start anywhere. Follow your instincts. The repo is designed to reward exploratio
 
 ---
 
-Here’s a new use case entry for `usecases.md` that aligns with CyberCare’s modular tone and civic transparency, while guiding contributors toward the military module:
-
----
-
 ## 🛡️ [Strategic Defense Use Case: Navigating the Military Module](../military/introduction.md)
 
 CyberCare’s military module demonstrates how modular, ethical tooling can be applied to national defense. Built on the same principles as Recon-Suite—transparency, traceability, and contributor empowerment—it offers a framework for detecting and responding to threats without initiating conflict.
