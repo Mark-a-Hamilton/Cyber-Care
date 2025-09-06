@@ -33,7 +33,7 @@ This use case explores how CyberCare:
 - Maintains democratic integrity by ensuring all responses are proportional and ethically justified  
 - Reinforces civic trust by making defense logic auditable and teachable  
 
-🧭 **To explore this module**, start with [*military/ application*](../introduction.md), which outlines the strategic framing, ethical boundaries, and operational scaffolding. From there, contributors can navigate to:
+🧭 **To explore this module**, start with [*military application*](../military/introduction.md), which outlines the strategic framing, ethical boundaries, and operational scaffolding. From there, contributors can navigate to:
 
 - `military/evolution.md` — for historical context and philosophical rationale  
 - `military/hardware.md` — for modular assets and deployment logic  
