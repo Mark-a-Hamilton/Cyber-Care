@@ -29,14 +29,8 @@ This use case explores how CyberCare:
 - Maintains democratic integrity by ensuring all responses are proportional and ethically justified  
 - Reinforces civic trust by making defense logic auditable and teachable  
 
-🧭 **To explore this module**, select the link above, which outlines the strategic framing, ethical boundaries, and operational scaffolding. From there, contributors can navigate to:
-
-- `military/evolution.md` — for historical context and philosophical rationale  
-- `military/hardware.md` — for modular assets and deployment logic  
-- `military/traffic-light.md` — for situational scale and response classification  
+🧭 **To explore this module**, select the link above, which outlines the strategic framing, ethical boundaries, and operational scaffolding. From there, contributors can navigate to all the available links to uderstand how the cybercare madel can be applied to a military type system
 
 This use case is ideal for contributors interested in strategic deterrence, ethical defense tooling, and civic demonstration through modular design.
 
 ---
-
-Let me know if you'd like this staged for commit or cross-linked from `concept.md` as well. We could also scaffold a `military-usecase.md` for deeper contributor orientation.
