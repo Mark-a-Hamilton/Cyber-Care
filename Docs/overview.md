@@ -61,6 +61,6 @@ All AI-generated content is versioned, reviewable, and subject to contributor ov
 ---
 
 ## 📚 [Applying Cyber Care Beyond Cybersecurity](./usecases.md)  
-While this repo demonstrates Cyber Care in a cybersecurity context, the model is domain-agnostic. Contributors are encouraged to adapt the framework to other systems:- Civic, Educational, Legal, Military, Political, Software, etc. using the cybersecurity example as a learning scaffold.
+While this repo demonstrates Cyber Care in a cybersecurity context, the model is domain-agnostic. Contributors are encouraged to adapt the framework to other systems:- Civic, Educational, Legal, Military, Political, Software, etc. using the cybersecurity example as a learning scaffold. Follow the link above to explore the different Use Case examples.
 
 Cyber Care is a living framework. Every module, document, and decision tree is designed to evolve—with clarity, traceability, and contributor care at its core.
