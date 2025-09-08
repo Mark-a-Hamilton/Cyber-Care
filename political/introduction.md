@@ -75,6 +75,12 @@ Let’s scaffold reforms using CyberCare principles: traceability, modularity, a
 - Introduce **contributor-first onboarding** for all public servants
 
 ---
+##  🔗 Cross-References
+
+- [**Introduction**](./introduction.md) Circular reference back to the introduction
+- [**Model Evolution**](./evolution.md) This is an explaination of how each document was composed, and it acts as a Circular reference.
+
+---
 
 ## Summary  
 
