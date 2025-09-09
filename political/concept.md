@@ -96,8 +96,9 @@ Local government serves as a proving ground. High-performing contributors need n
 Cyber Care is not just code—it’s culture. By abstracting national governance into household logic, we create a relatable, scalable, and ethical framework for civic resilience. This proof of concept invites contributors to think modularly, act transparently, and build systems that teach as they protect.
 
 ---
+
 ##  🔗 Cross-References
 
-- [**Introduction**](./introduction.md) Circular reference back to the CyberCare use cases
+- [**Introduction**](./introduction.md) Circular reference back to the Introduction
 - [**Model Evolution**](./evolution.md) This is an explaination of how each document was composed, and it acts as a Circular reference.
 
