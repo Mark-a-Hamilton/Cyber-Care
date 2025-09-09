@@ -92,14 +92,9 @@ Each node follows the same principles: **modularity**, **traceability**, and **c
 
 ## 🔗 Cross-References
 
-- [Introduction](../political/introduction.md) — Circular reference to root document  
-- [Proof of Concept](../political/concept.md) — Strategic purpose and ethical framing  
-- [Political Hardware](../political/hardware.md) — Procedural recommendations based on the model  
-- [Blending](../political/blending.md) — Integration of concept and civic procedure  
-- [Extending Capability](../political/extend.md) — Scaling the model to full political refinement  
+- [Introduction](./introduction.md) — Circular reference to root document  
+- [Proof of Concept](./concept.md) — Strategic purpose and ethical framing  
+- [Political Hardware](./hardware.md) — Procedural recommendations based on the model  
+- [Blending](./blending.md) — Integration of concept and civic procedure  
+- [Extending Capability](./extend.md) — Scaling the model to full political refinement  
 
-```
-
----
-
-Would you like me to scaffold the companion files (`concept.md`, `hardware.md`, `extend.md`) next? Or modularize this into onboarding flows for civic contributors?
